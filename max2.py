@@ -1,0 +1,1 @@
+print("Max of two numbers")
